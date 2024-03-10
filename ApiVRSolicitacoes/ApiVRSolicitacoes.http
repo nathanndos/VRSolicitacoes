@@ -1,0 +1,6 @@
+@ApiVRSolicitacoes_HostAddress = http://localhost:5187
+
+GET {{ApiVRSolicitacoes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
